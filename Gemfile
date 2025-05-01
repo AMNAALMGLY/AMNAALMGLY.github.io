@@ -18,7 +18,7 @@ group :jekyll_plugins do
     gem 'webrick'
 end
 group :other_plugins do
-#     gem 'uri', '~> 1.0.3'
+    gem 'uri', '~> 1.0.3'
     gem 'httparty'
     gem 'feedjira'
 end
