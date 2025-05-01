@@ -4,4 +4,4 @@ date: 2024-08-22
 inline: true
 ---
 
-I started my PhD with Dr. Hannah Kerner at ASU.
+Summer 2025 I'm a visiting student @ MIT under supervision of Prof.Sherrie Wang.
