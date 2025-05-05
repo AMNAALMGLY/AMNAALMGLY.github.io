@@ -9,9 +9,6 @@ on:
     branches:
       - master
       - main
-run: |
-    bundle update
-    bundle install
 jobs:
   deploy:
     runs-on: ubuntu-latest
